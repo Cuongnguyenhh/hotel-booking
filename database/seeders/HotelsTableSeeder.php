@@ -40,3 +40,5 @@ class HotelsTableSeeder extends Seeder
         }
     }
 }
+
+
